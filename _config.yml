@@ -1,0 +1,4 @@
+# SITE SETTINGS
+title: My Page                            # Title in top navigation bar (navbar) and <head>
+author: Bram van Bunnik                   # Used for copyright statement in footer
+remote_theme: peterdesmet/petridish@3.0   # Theme used
